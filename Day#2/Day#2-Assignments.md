@@ -28,7 +28,6 @@
 #### #1 [Docker Desktop] Install Docker Desktop and verify the command “docker version”.
 ![image](https://github.com/user-attachments/assets/287f24e9-1128-46f4-8f6d-f34f0679438f)
 
-
 ***
 
 #### #2 [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version”
